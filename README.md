@@ -555,4 +555,4 @@ AISTATS 2017.
 
 ## License
 
-Add your preferred open-source license before publishing, e.g. MIT.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
